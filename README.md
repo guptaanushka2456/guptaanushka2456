@@ -1,4 +1,4 @@
-```md
+
 # 👋 Hi, I'm Anushka Gupta
 
 ### 🚀 Software Developer | Java Enthusiast | Full-Stack Developer | AI Explorer
