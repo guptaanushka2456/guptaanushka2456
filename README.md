@@ -84,7 +84,7 @@
 
 📧 **Email:** guptaanushka2456@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/anushka-gupta-98a991324
+💼 **LinkedIn:** https://www.linkedin.com/in/anushka-gupta-98a991324
 
 
 ## 🌐 Socials:
