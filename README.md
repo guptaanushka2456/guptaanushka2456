@@ -85,10 +85,6 @@
 📧 **Email:** guptaanushka2456@gmail.com
 
 💼 **LinkedIn:** linkedin.com/in/anushka-gupta-98a991324
-```
-
-
-
 
 
 ## 🌐 Socials:
@@ -102,3 +98,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=guptaanushka2456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
